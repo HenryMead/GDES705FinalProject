@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3cc83f0-af36-84d1-c72e-2c397ba03d32": {
+      "ProjectGuid": "e3cc83f0-af36-84d1-c72e-2c397ba03d32",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8517eda4-15f9-00f1-a42f-960259a671b1": {
+      "ProjectGuid": "8517eda4-15f9-00f1-a42f-960259a671b1",
+      "DisplayName": "PhotonUnityNetworking.Demos",
+      "ColorIndex": 1
+    },
+    "24eba353-6696-0ecd-f962-b40308e0fe5a": {
+      "ProjectGuid": "24eba353-6696-0ecd-f962-b40308e0fe5a",
+      "DisplayName": "PhotonUnityNetworking",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
